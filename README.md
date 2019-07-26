@@ -19,3 +19,5 @@ file is correct.
 - https://hub.docker.com/r/portainer/portainer
 - https://www.portainer.io/
 
+![alt text](https://2.bp.blogspot.com/-N7piChMnv4Y/XNv01GHPOlI/AAAAAAAACw4/x41sXFftxpAFin_tsFLH7v-WwAZbS-nwACLcBGAs/s640/portainer.png)
+
