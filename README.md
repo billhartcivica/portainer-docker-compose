@@ -1,7 +1,7 @@
 # Docker-Compose file for a basic Portainer deployment
 
 Portainer is a management system for overseeing, monitoring and maintaining your Docker or Docker-Swarm
-deployments. Easy to deploy, it provides an easy, graphical method of controlling your Docker estate.
+deployments. Easy to deploy, it provides an simple, graphical method of controlling your Docker estate.
 
 - Start by installing Docker on your system (eg: yum -y install docker-ce or apt-get install docker).
 - Install docker-compose (ref: https://docs.docker.com/compose/install/)
@@ -14,3 +14,8 @@ file is correct.
 - You will be prompted to change the Portainer 'admin' password - set this to your preferred option.
 - Er...
 - That's it...
+
+## For more information, refer to these links: 
+- https://hub.docker.com/r/portainer/portainer
+- https://www.portainer.io/
+
